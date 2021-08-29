@@ -44,7 +44,7 @@ namespace UserDefineException
                 }
                 catch(CostomExceptio CE)
                 {
-                    Console.WriteLine("Message={0}", CE.Message);
+                   Console.WriteLine("Message={0}", CE.Message);
                 }
 
             }
